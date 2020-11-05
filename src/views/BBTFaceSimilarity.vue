@@ -19,7 +19,7 @@
       </div>
       <div>
         <label>相识度（越小越精确）：</label>
-        <strong style="color: #42b983;" v-text="distance"></strong>
+        <strong style="color: #4383bb;" v-text="distance"></strong>
       </div>
     </div>
     <div>
@@ -92,7 +92,7 @@ export default {
 }
 .option div {
   padding: 10px;
-  border-bottom: 2px #42b983 solid;
+  border-bottom: 2px #6ea0ce solid;
 }
 .option div label {
   margin-right: 20px;

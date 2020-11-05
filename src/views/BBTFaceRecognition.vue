@@ -32,7 +32,7 @@
     </div>
     <h3>样本库：</h3>
     <div v-for="(item, i) in sampleArr" :key="i">
-      <span style="color: #42b983;" v-text="item.name"></span>
+      <span style="color: #4383bb;" v-text="item.name"></span>
       <div class="pic">
         <img v-for="img in item.img" :key="img" :src="img" :alt="item.name" />
       </div>
@@ -191,7 +191,7 @@ export default {
 }
 .option div {
   padding: 10px;
-  border-bottom: 2px #42b983 solid;
+  border-bottom: 2px #6ea0ce solid;
 }
 .option div label {
   margin-right: 20px;

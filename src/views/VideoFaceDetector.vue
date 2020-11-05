@@ -149,9 +149,9 @@ export default {
 <style scoped>
 button {
   height: 30px;
-  border: 2px #42b983 solid;
+  border: 2px #6ea0ce solid;
   border-radius: 4px;
-  background: #42b983;
+  background: #4383bb;
   color: white;
   margin: 10px;
 }
@@ -172,7 +172,7 @@ button {
 }
 .option div {
   padding: 10px;
-  border-bottom: 2px #42b983 solid;
+  border-bottom: 2px #6ea0ce solid;
 }
 .option div label {
   margin-right: 20px;

@@ -25,7 +25,7 @@
 
 #nav {
   min-width: 200px;
-  border: 2px #42b983 solid;
+  border: 2px #6ea0ce solid;
   padding: 10px;
   margin-right: 20px;
 }
@@ -44,12 +44,12 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #4383bb;
 }
 
 #content {
   flex-grow: 1;
-  border: 2px #42b983 solid;
+  border: 2px #6ea0ce solid;
   padding: 20px;
 }
 </style>
